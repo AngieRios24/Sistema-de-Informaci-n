@@ -43,6 +43,7 @@ class EquiposController extends Controller
 
         $equipo->save();
         return redirect('/equipos');
+        //Hola
     }
 
     /**
